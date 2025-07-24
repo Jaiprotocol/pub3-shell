@@ -66,6 +66,14 @@ LICENSE
 
 ---
 
+## 📘 Также рекомендовано / Also Recommended
+
+> 📖 **PUP (Sweet Protocol)** — философская основа проекта, оформленная как автономный цифровой артефакт.  
+> [Скачать / Download PUP_full_final_sweets.md](https://github.com/Jaiprotocol/pub3-shell/releases)  
+> *(ENG/UA/RU, Markdown-format, лицензия: CC BY-NC-SA 4.0 / license: CC BY-NC-SA 4.0)*
+
+---
+
 ## 🪪 Лицензия
 
 - `LICENSE` — MIT  
