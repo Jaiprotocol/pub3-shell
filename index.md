@@ -39,4 +39,20 @@ python pup2shell_gui_en_SAFE_DIAG_v2.py
 
 ---
 
+## 📘 Также рекомендовано
+
+> 📖 **PUP (Sweet Protocol)** — философская основа проекта, оформленная как автономный цифровой артефакт.  
+> [Скачать PUP_full_final_sweets.md](https://github.com/Jaiprotocol/pub3-shell/releases)  
+> *(ENG/UA/RU, Markdown-format, лицензия: CC BY-NC-SA 4.0)* 
+
+---
+
+## 📘 Also Recommended
+
+> 📖 **PUP (Sweet Protocol)** — the philosophical core behind Pub3, released as a standalone digital artifact.  
+> [Download PUP_full_final_sweets.md](https://github.com/Jaiprotocol/pub3-shell/releases)  
+> *(ENG/UA/RU, Markdown-format, license: CC BY-NC-SA 4.0)* 
+
+
+
 © 2025 PUP/JAI Initiative · Все права защищены
